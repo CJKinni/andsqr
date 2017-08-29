@@ -71,6 +71,7 @@ We can also try and access values that are unreachable, and we'll have ```nil```
 => nil
  > a.andsqr [:happy,0,0,0,0,0,0,0] # No array is this long in our JSON file.
 => nil
+```
 
 ## License
 
